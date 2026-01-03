@@ -4,3 +4,4 @@
 # Ignore tmp files
 *.tmp
 tmp.*
+venv/
